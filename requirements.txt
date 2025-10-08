@@ -3,4 +3,5 @@ pillow
 opencv-python
 numpy
 rembg
+onnxruntime
 ultralytics
